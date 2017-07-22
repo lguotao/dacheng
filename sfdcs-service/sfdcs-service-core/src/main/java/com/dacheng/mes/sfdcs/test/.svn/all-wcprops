@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/SES/SFDC/!svn/ver/9267/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/test
+END
+DBUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/SES/SFDC/!svn/ver/9267/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/test/DBUtil.java
+END
+DBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/SES/SFDC/!svn/ver/9126/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/test/DBTest.java
+END
+PostgreSQLDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/SES/SFDC/!svn/ver/9267/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/test/PostgreSQLDao.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/SES/SFDC/!svn/ver/9256/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/test/Test.java
+END

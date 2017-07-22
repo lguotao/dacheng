@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF
+END
+project_configuration.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/project_configuration.properties
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/db.properties
+END
+spring-applicationContext-database-sfdcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/spring-applicationContext-database-sfdcs.xml
+END
+spring-applicationContext-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/spring-applicationContext-core.xml
+END
+spring-applicationContext-util.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/spring-applicationContext-util.xml
+END
+version.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/version.properties
+END
+mail.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/mail.properties
+END
+spring-applicationContext-service-restful.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/spring-applicationContext-service-restful.xml
+END
+ini.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/ini.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/web.xml
+END
+server-config.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/SES/SFDC/!svn/ver/9092/trunk/workflow/test/sfdcs-service/sfdcs-service-web/src/main/webapp/WEB-INF/server-config.wsdd
+END

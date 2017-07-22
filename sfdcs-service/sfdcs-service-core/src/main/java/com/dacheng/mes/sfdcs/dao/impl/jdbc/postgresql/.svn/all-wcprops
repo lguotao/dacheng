@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/dao/impl/jdbc/postgresql
+END
+SFDCSConfigDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/dao/impl/jdbc/postgresql/SFDCSConfigDaoImpl.java
+END
+DataInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/dao/impl/jdbc/postgresql/DataInfoDaoImpl.java
+END

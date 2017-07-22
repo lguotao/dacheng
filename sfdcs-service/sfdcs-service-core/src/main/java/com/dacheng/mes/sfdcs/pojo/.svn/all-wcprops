@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/SES/SFDC/!svn/ver/9267/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo
+END
+Process.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/SES/SFDC/!svn/ver/9126/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/Process.java
+END
+PartRevision.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/SES/SFDC/!svn/ver/9171/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/PartRevision.java
+END
+AttrGroupAttrName.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/SES/SFDC/!svn/ver/9219/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/AttrGroupAttrName.java
+END
+AttributeDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/SES/SFDC/!svn/ver/9219/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/AttributeDef.java
+END
+SetupData.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/SES/SFDC/!svn/ver/9267/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/SetupData.java
+END
+Assembly.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/SES/SFDC/!svn/ver/9185/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/Assembly.java
+END
+DataCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/SES/SFDC/!svn/ver/9142/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/DataCollector.java
+END
+LocationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/SES/SFDC/!svn/ver/9126/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/LocationInfo.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/SES/SFDC/!svn/ver/9142/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/Scanner.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/SES/SFDC/!svn/ver/9092/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/Result.java
+END
+WholeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/WholeConstants.java
+END
+UnitStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/SES/SFDC/!svn/ver/9126/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/UnitStatus.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/SES/SFDC/!svn/ver/9126/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/Location.java
+END
+AttributeDefStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/SES/SFDC/!svn/ver/9219/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/AttributeDefStep.java
+END
+Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/SES/SFDC/!svn/ver/9171/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/Part.java
+END
+DefCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/SES/SFDC/!svn/ver/9156/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/DefCode.java
+END
+Department.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/SES/SFDC/!svn/ver/9126/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/Department.java
+END
+AssemblyStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/SES/SFDC/!svn/ver/9185/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/AssemblyStep.java
+END
+ShopFloorID.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/SES/SFDC/!svn/ver/9092/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/pojo/ShopFloorID.java
+END

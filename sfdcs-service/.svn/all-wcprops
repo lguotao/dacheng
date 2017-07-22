@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/SES/SFDC/!svn/ver/9267/trunk/workflow/test/sfdcs-service/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/.classpath
+END

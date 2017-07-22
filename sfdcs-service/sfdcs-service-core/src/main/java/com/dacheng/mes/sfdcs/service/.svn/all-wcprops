@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/service
+END
+DataInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/SES/SFDC/!svn/ver/9126/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/service/DataInfoService.java
+END
+SFDCSConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/service/SFDCSConfigService.java
+END

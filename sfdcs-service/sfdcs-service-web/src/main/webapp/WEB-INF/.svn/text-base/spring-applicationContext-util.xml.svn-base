@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+-->
+<!--
+	- Application context definition for SFDC.
+-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd 
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+	<!-- ========================= Mail Support ========================= -->
+	<!-- email sender -->
+	<bean id="sender"
+		class="org.springframework.mail.javamail.JavaMailSenderImpl">
+		<property name="host" value="${mail.host}" />
+	</bean>
+	<bean id="sender2"
+		class="org.springframework.mail.javamail.JavaMailSenderImpl">
+		<property name="host" value="${mail.host2}" />
+	</bean>
+	<bean id="mailSender"
+		class="com.sanminasci.scion.util.ScionMailSender">
+		<property name="from" value="${mail.from}" />
+		<property name="sender" ref="sender" />
+		<property name="sender2" ref="sender2" />
+	</bean>	
+ 	
+</beans>

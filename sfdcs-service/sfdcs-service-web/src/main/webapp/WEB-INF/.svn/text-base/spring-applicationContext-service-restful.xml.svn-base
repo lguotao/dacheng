@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans-3.0.dtd">
+-->
+<!--
+	- Application context definition-->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd 
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+ 
+   <context:component-scan base-package="com.dacheng.mes.*" />
+    
+	<bean id="dataInfoDao" class="com.dacheng.mes.sfdcs.dao.impl.jdbc.postgresql.DataInfoDaoImpl">
+	</bean>
+
+	<bean id="dataInfoService" class="com.dacheng.mes.sfdcs.service.impl.DataInfoServiceImpl">
+		<property name="dataInfoDao" ref="dataInfoDao"></property>
+	</bean>
+	
+	<bean id="sfdcsConfigDao" class="com.dacheng.mes.sfdcs.dao.impl.jdbc.postgresql.SFDCSConfigDaoImpl">
+		<property name="sfdcsjdbcTemplate" ref="sfdcsjdbcTemplate"></property>
+	</bean>
+
+	<bean id="sfdcsConfigService" class="com.dacheng.mes.sfdcs.service.impl.SFDCSConfigServiceImpl">
+		<property name="sfdcsConfigDao" ref="sfdcsConfigDao"></property>
+	</bean>	 	
+</beans>

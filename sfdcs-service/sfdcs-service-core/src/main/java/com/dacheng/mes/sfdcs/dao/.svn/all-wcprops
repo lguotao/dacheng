@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/dao
+END
+SFDCSConfigDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/SES/SFDC/!svn/ver/9301/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/dao/SFDCSConfigDao.java
+END
+DataInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/SES/SFDC/!svn/ver/9069/trunk/workflow/test/sfdcs-service/sfdcs-service-core/src/main/java/com/dacheng/mes/sfdcs/dao/DataInfoDao.java
+END
